@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shujuku", "shujuku.csproj", "{CB6858C6-1E94-47AB-BAFD-2D82FDF9AAD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB6858C6-1E94-47AB-BAFD-2D82FDF9AAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB6858C6-1E94-47AB-BAFD-2D82FDF9AAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB6858C6-1E94-47AB-BAFD-2D82FDF9AAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB6858C6-1E94-47AB-BAFD-2D82FDF9AAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {546EDAF4-007F-4385-8949-23E756956E14}
+	EndGlobalSection
+EndGlobal
